@@ -1,0 +1,26 @@
+h3 {
+    text-align: center;
+    color: blue;
+    font-size: large;
+    font-weight: bolder;
+}
+
+  
+  body {
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    line-height: 28px;
+    width: 100%;
+  }
+  
+
+.imagename {
+    color: red;
+    text-align: center;
+    font-weight: bold;
+}
+.scroll {
+    color: red;
+    font-size: x-large;
+    font-weight: bold;
+}
